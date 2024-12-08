@@ -1,0 +1,3 @@
+Web Design|my very first business website using HTML and CSS!|Html,Css|assets/images/projects/462579228_2044424686030152_3170411594245509718_n.png
+Web-Integrated Chatbot|Web hotel integrated with a smart chatbot to assist with bookings, queries, and personalized recommendations.|Html, Css, JavaScript|assets/images/projects/462551941_544693991793449_1337509501293116132_n.png
+Space Shooter|A thrilling Java game where players pilot a spaceship, dodge asteroids, and destroy enemy ships in a fast-paced cosmic battle.|Java|assets/images/projects/441948860_1211337869859154_4820574310057375233_n.jpg

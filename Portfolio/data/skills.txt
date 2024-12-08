@@ -1,0 +1,3 @@
+Java|50
+php|52
+Html and Css|50
